@@ -1,0 +1,74 @@
+body
+{
+	font-family:'Cabin';
+	font-size:17px;
+	background-color:black;
+}
+
+pre
+{
+	font-family: 'Cabin';
+	font-size: 17px;	
+}
+
+.card
+{
+	height: 800px;
+	width: 700px;
+	position: absolute;
+	top:150px;
+	left: 10px;
+	background-color: black;
+	border:5px solid black;
+}
+
+.question
+{
+	background-color: #1aaace;
+}
+
+.cardfade
+{
+	height: 800px;
+	width: 700px;
+	position: absolute;
+	top:200px;
+	left:400px;
+	background: linear-gradient(#92d6e8, #1aaace);
+}
+
+.question
+{
+	position: absolute;
+	width: 600px
+}
+
+.ans
+{
+	position: absolute;
+	top:150px;
+	left: 0px;
+	bottom:20px; 
+	width: 600px;
+}
+
+.ans tr
+{
+	background-color: #1aaace;
+	width: 500px;
+	height: 40px;
+}
+
+.ans td
+{
+	padding: 10px;
+}
+
+
+#sub
+{
+	position: absolute;
+	top:100px;
+	left: 350px;
+	width: 900px;
+}
